@@ -2,9 +2,8 @@
 
 Aplicación PHP + MySQL con registro, inicio de sesión y contactos privados por usuario.
 
-## URL pública y repositorio
-- **URL pública:** PENDIENTE: colocar aquí la URL real después de desplegar.
-- **Repositorio GitHub:** PENDIENTE: colocar aquí el enlace real del repositorio.
+- URL pública: https://agenda-daniel-jacho.fwh.is/login.php
+- Repositorio GitHub: https://github.com/danieljacho07-hash/agenda-contactos-mejorada
 
 ## Tecnologías
 PHP 8+, MySQL/MariaDB, PDO, HTML5, CSS3, Apache (XAMPP o hosting PHP).
